@@ -1,5 +1,12 @@
+![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/971.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 <h3 align="center">A passionate frontend Data Analyst from India</h3>
+
+<img align="right" alt="Kryptora" width="400" 
+src="https://github.com/mohd-zaid-da/mohd-zaid-da/blob/main/header_gif.gif?raw=true>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-zaid-da&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-zaid-da" /> </p>
 
