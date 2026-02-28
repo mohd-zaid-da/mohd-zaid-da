@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
-<h3 align="center">A passionate frontend Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Kryptora" width="400" 
 src="https://github.com/mohd-zaid-da/mohd-zaid-da/blob/main/header_gif.gif?raw=true>
