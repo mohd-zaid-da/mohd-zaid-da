@@ -1,4 +1,3 @@
-````md
 ![logo](https://raw.githubusercontent.com/codewithkryptora/CodeWithKryptora/main/971.jpg)
 
 <div align="center">
@@ -17,15 +16,15 @@
 
 # 👨‍💻 About Me
 
-Hello! I'm **Mohd Zaid** — a passionate Computer Science Student interested in Data Analytics and transforming raw data into meaningful insights.
+Hello! I'm **Mohd Zaid** — a **Computer Science student** passionate about analyzing data and transforming raw data into meaningful insights to solve real-world problems.
 
 - 🎓 Computer Science Student
-- 📊 Data Analysis & Visualization Enthusiast
-- 🐍 Python, SQL & Data Processing
-- 📈 Learning Power BI, Machine Learning & Generative AI
-- 🔥 Interested in Data Cleaning, Analytics & Business Insights
+- 📊 Working with **Data Analysis & Visualization**
+- 🐍 Skilled in **Python, SQL & Data Processing**
+- 📈 Exploring **Power BI, Machine Learning & Generative AI**
+- 🔥 Strong interest in **Data Cleaning, Analytics & Business Insights**
 - 🐧 Linux & Ubuntu Enthusiast
-- 🤝 Open to internships, freelance work & collaborations
+- 🤝 Open to internships, freelance work, collaborations & full-time opportunities
 
 <br>
 
@@ -47,11 +46,11 @@ while(!success){
     keepBuilding();
     keepImproving();
 }
-````
+```
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect with me
 
 <p align="left">
 
@@ -70,15 +69,23 @@ while(!success){
 # ⚒️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,linux,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,linux,vscode"/>
+
 </p>
 
 <p>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -101,30 +108,6 @@ while(!success){
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohd-zaid-da&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-zaid-da&theme=tokyo-night"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohd-zaid-da&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
 <div align="center">
 
 ### 📈 Turning Raw Data into Meaningful Insights
@@ -132,4 +115,3 @@ while(!success){
 ⭐ Thanks for visiting my profile!
 
 </div>
-```
